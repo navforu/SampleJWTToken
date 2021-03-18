@@ -1,2 +1,2 @@
 # SampleJWTToken
-C# code to generate JWT Token and validate
+Sample C# code to generate JWT Token and validate
